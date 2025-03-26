@@ -155,7 +155,5 @@ export const ExpenseTracker = () => {
       </div>
     </div>
   );
-  
 
-  
 };
